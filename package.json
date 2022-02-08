@@ -1,0 +1,22 @@
+{
+  "name": "lesson_npm-script",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "say": "echo hello",
+    "create": "mkdir build",
+    "delete": "rm -rf build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WebHeroSchool/lesson_npm-script.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WebHeroSchool/lesson_npm-script/issues"
+  },
+  "homepage": "https://github.com/WebHeroSchool/lesson_npm-script#readme"
+}
